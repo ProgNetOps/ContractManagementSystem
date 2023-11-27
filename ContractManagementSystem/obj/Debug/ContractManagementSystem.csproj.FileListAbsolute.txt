@@ -1,0 +1,32 @@
+C:\Users\Seyi\source\repos\ContractManagementSystem\ContractManagementSystem\bin\Debug\ContractManagementSystem.exe.config
+C:\Users\Seyi\source\repos\ContractManagementSystem\ContractManagementSystem\bin\Debug\ContractManagementSystem.exe
+C:\Users\Seyi\source\repos\ContractManagementSystem\ContractManagementSystem\bin\Debug\ContractManagementSystem.pdb
+C:\Users\Seyi\source\repos\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.csprojAssemblyReference.cache
+C:\Users\Seyi\source\repos\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.Form1.resources
+C:\Users\Seyi\source\repos\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.Properties.Resources.resources
+C:\Users\Seyi\source\repos\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.csproj.GenerateResource.cache
+C:\Users\Seyi\source\repos\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\source\repos\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.exe
+C:\Users\Seyi\source\repos\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.Form1.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.Properties.Resources.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.csproj.GenerateResource.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\bin\Debug\ContractManagementSystem.exe.config
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\bin\Debug\ContractManagementSystem.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\bin\Debug\ContractManagementSystem.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\bin\Debug\SLRDbConnector.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.csproj.CopyComplete
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\bin\Debug\ContractManagementSystem.exe.config
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\bin\Debug\ContractManagementSystem.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\bin\Debug\ContractManagementSystem.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.csproj.AssemblyReference.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.Form1.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.Properties.Resources.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.csproj.GenerateResource.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.csproj.CoreCompileInputs.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.csproj.CopyComplete
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\ContractManagementSystem\ContractManagementSystem\obj\Debug\ContractManagementSystem.pdb
